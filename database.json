@@ -1,22 +1,57 @@
 {
-    "id0004": {
-        "name": "Harry Potter 4",
-        "year": 2009,
-        "author": "J.K. Rolling"
+    "id-0020": {
+        "name": "The Road",
+        "year": 2006,
+        "author": "Cormac McCarthy"
     },
-    "id0005": {
-        "name": "Harry Potter 4",
-        "year": 2009,
-        "author": "J.K. Rolling"
+    "id-0021": {
+        "name": "The Night Circus",
+        "year": 2011,
+        "author": "Erin Morgenstern"
     },
-    "id0006": {
-        "name": "Harry Potter 4",
-        "year": 2009,
-        "author": "J.K. Rolling"
+    "id-0022": {
+        "name": "The Goldfinch",
+        "year": 2013,
+        "author": "Donna Tartt"
     },
-    "id0001": {
-        "name": "Harry Potter 4",
-        "year": 2009,
-        "author": "J.K. Rolling"
+    "id-0023": {
+        "name": "Gone Girl",
+        "year": 2012,
+        "author": "Gillian Flynn"
+    },
+    "id-0024": {
+        "name": "The Underground Railroad",
+        "year": 2016,
+        "author": "Colson Whitehead"
+    },
+    "id-0025": {
+        "name": "A Little Life",
+        "year": 2015,
+        "author": "Hanya Yanagihara"
+    },
+    "id-0026": {
+        "name": "Normal People",
+        "year": 2018,
+        "author": "Sally Rooney"
+    },
+    "id-0027": {
+        "name": "The Midnight Library",
+        "year": 2020,
+        "author": "Matt Haig"
+    },
+    "id-0028": {
+        "name": "Klara and the Sun",
+        "year": 2021,
+        "author": "Kazuo Ishiguro"
+    },
+    "id-0029": {
+        "name": "Tomorrow, and Tomorrow, and Tomorrow",
+        "year": 2022,
+        "author": "Gabrielle Zevin"
+    },
+    "id-0030": {
+        "name": "Whimpy Kid",
+        "year": 2011,
+        "author": "Jeff Kinny"
     }
 }
